@@ -4,7 +4,7 @@
 
 
 ### Visualization of the Website
-![image](https://user-images.githubusercontent.com/101554737/188306721-ee77dd45-be6b-49f9-affc-84b7f0ea392c.png)
+![image](https://github.com/Sekunev/SASS-Web-Pages/blob/main/Animation.gif)
 
 
 ### Overview
